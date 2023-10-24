@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2,
+    "titre": "Livre 1",
+    "auteur": "Auteur 1",
+    "prix": 14.99,
+    "description": "Description du livre 1"
+  },
+  {
+    "id": 1,
+    "titre": "Livre 1",
+    "auteur": "Auteur 1",
+    "prix": 14.99,
+    "description": "Description du livre 1"
+  },
+  {
+    "id": 2,
+    "titre": "Livre 1",
+    "auteur": "Auteur 1",
+    "prix": 14.99,
+    "description": "Description du livre 1"
+  },
+  {
+    "titre": "Livre 1",
+    "auteur": "Auteur 1",
+    "prix": 14.99,
+    "description": "Description du livre 1",
+    "id": 3
+  },
+  {
+    "titre": "Livre 1",
+    "auteur": "Auteur 1",
+    "prix": 14.99,
+    "description": "Description du livre 1",
+    "id": 4
+  },
+  {
+    "titre": "Livre 1",
+    "auteur": "Auteur 1",
+    "prix": 14.99,
+    "description": "Description du livre 1",
+    "id": 5
+  }
+]
